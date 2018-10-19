@@ -1,0 +1,14 @@
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\Repository.dll.config
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\Repository.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\Domain.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\Domain.pdb
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\obj\Debug\Repository.Migrations.Hotel.resources
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\obj\Debug\Repository.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Repository\obj\Debug\Repository.pdb

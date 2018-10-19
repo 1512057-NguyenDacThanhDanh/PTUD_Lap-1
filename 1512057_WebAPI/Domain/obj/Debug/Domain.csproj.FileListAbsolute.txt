@@ -1,0 +1,10 @@
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\Domain.dll.config
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\Domain.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\Domain.pdb
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\obj\Debug\Domain.dll
+C:\Users\nguye\Desktop\1512057_WebAPI\Domain\obj\Debug\Domain.pdb
